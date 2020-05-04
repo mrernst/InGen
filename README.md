@@ -1,2 +1,3 @@
-# ingen
-Inference for Generative computer vision
+# In Gen
+### Inference for Generative computer vision
+
