@@ -1,0 +1,43 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+.ipynb*
+
+# Videos
+*.mp4
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Files that are to big to be uploaded to github
+__pycache__
+datasets/*
+
+# Directories that will be filled by code
+
+
+# Formatting Template
+code_template.py
+TODO.md
+useful_links.md
